@@ -13,7 +13,7 @@ This repository analyzes the relationship between **Study Hours** and **Exam Mar
 To run this project, make sure you have installed the required libraries:
 ```bash
 pip install -r requirements.txt
-'''
+```
 
 ## 📉 Visualizations
 
